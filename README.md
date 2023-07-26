@@ -16,8 +16,3 @@ Faydalı olması dileyi ile.
 - Firebase Authentication (Misafir,Google)
 - Firebase Remote config
 - Firebase Cloud Function (Realtime Database)
-
-
-
-## Demo apk link
-[Demo Apk](https://drive.google.com/file/d/1JKiLdbqUDLOgRaeTxy9a9rKsBr5MjDuw/view?usp=sharing)
