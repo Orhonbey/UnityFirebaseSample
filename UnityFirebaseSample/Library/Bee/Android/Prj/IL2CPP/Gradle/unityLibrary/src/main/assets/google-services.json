@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "701161701134",
+    "project_id": "unityfirebasesample-444c0",
+    "storage_bucket": "unityfirebasesample-444c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701161701134:android:bf5eafc3657a7dbce4e15f",
+        "android_client_info": {
+          "package_name": "com.orhonbey.unityfirebasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701161701134-a4iu0jfnje3f3264pnnjo4p9224cfrk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.orhonbey.unityfirebasesample",
+            "certificate_hash": "33e6eeafbe229ef607b0e63808ab6cf680a40302"
+          }
+        },
+        {
+          "client_id": "701161701134-29m5i6usog5io93tmr7g7k47buid1k6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzDhydICIr68GU4n4TcGYegJf3leoNF-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701161701134-29m5i6usog5io93tmr7g7k47buid1k6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

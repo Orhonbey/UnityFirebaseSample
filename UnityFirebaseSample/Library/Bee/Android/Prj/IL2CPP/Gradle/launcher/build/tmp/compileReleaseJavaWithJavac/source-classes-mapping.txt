@@ -1,0 +1,2 @@
+com/orhonbey/unityfirebasesample/BuildConfig.java
+ com.orhonbey.unityfirebasesample.BuildConfig
